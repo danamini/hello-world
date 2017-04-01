@@ -1,2 +1,2 @@
 # hello-world
-Another Hello-World to get this thing up and running.
+Another Hello-World, this time for the wonderful Sinclair ZX Spectrum.
